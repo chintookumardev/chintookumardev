@@ -30,6 +30,11 @@ skills through practical projects.
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,git,github" />
+</p>
+
+
 ### 🌐 Frontend Development
 
 - 🌐 **HTML5**
