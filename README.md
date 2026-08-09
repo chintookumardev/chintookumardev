@@ -106,6 +106,10 @@ projects, and grow as a developer.
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/chintookumardev/)**
 
+### 𝕏 X (Twitter)
+
+**[Follow me on X](https://x.com/chintookumardev)**
+
 ### 📧 Email
 
 **[chintochintookumar.dev@gmail.com](mailto:chintochintookumar.dev@gmail.com)**
