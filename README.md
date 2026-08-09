@@ -112,7 +112,7 @@ projects, and grow as a developer.
 
 ### 📧 Email
 
-**[chintochintookumar.dev@gmail.com](mailto:chintochintookumar.dev@gmail.com)**
+**[chintookumar.dev@gmail.com](mailto:chintookumar.dev@gmail.com)**
 
 ---
 
