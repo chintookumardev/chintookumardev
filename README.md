@@ -111,6 +111,11 @@ projects, and grow as a developer.
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/chintookumardev/)**
 
+### 💼 Credly
+
+**[Connect with me on Credly](https://www.credly.com/users/chintookumar.dev)**
+
+
 ### 𝕏 X (Twitter)
 
 **[Follow me on X](https://x.com/chintookumardev)**
