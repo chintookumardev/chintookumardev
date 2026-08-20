@@ -61,6 +61,33 @@ skills through practical projects.
 
 ---
 
+## 🏆 Certifications
+
+### 🌐 IBM Web Development Fundamentals
+
+**IBM SkillsBuild**
+
+Successfully completed **Web Development Fundamentals**, gaining foundational knowledge of web development concepts and technologies.
+
+🔗 **[View Certificate](https://www.credly.com/badges/d62231d0-abf7-48fd-a4f9-7515e1600865)**
+
+**Topics:**  
+`Web Development` `HTML` `CSS` `JavaScript` `Web Technologies`
+
+---
+
+### ☁️ AWS Foundations: Getting Started with the AWS Cloud Essentials
+
+**AWS Training & Certification**
+
+Successfully completed **AWS Foundations: Getting Started with the AWS Cloud Essentials**, gaining foundational knowledge of AWS Cloud and cloud computing concepts.
+
+**Topics:**  
+`AWS` `AWS Cloud` `Cloud Computing` `AWS Foundations` `Cloud Fundamentals`
+
+---
+
+
 ## 📊 GitHub Statistics
 
 | 📌 Category | Details |
