@@ -8,8 +8,9 @@
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/chintookumardev) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/chintookumardev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/chintookumardev) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumardev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chintookumardev) | [![MLH](https://img.shields.io/badge/MLH-000000?style=for-the-badge&logo=mlh&logoColor=white)](https://www.mlh.com/account/profile) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
 
@@ -357,67 +358,15 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 ## Connect With Me
 
 <div align="center">
+Let's Build Something Together 🚀
+I'm continuously learning and building projects in Full-Stack Development, MERN, Java, C, C++, React.js, Node.js, Python, and SQL.
 
-### Let's Build Something Together 🚀
+I'm interested in building practical software, collaborating on meaningful projects, and continuously improving my development skills.
 
-I'm continuously learning and building projects in **Full-Stack Development, MERN, C, C++, Java, React.js, Node.js, Python, and SQL**.
-
-I'm interested in building practical software, improving my development skills, and collaborating on meaningful projects.
-
-<table>
-<tr>
-
-<td align="center">
-  <a href="https://linkedin.com/in/chintookumardev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://github.com/chintookumardev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://x.com/chintookumardev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/>
-  </a>
-</td>
-
-<td align="center">
-  <a href="mailto:chintookumar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<a href="https://linkedin.com/in/chintookumardev">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
-</a>
-
-<a href="mailto:chintookumar.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
-</a>
-
+<table> <tr> <td align="center"> <a href="https://linkedin.com/in/chintoo-kumar-64a3373b5"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/> </a> </td> <td align="center"> <a href="https://github.com/chintookumardev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/> </a> </td> <td align="center"> <a href="https://x.com/chintookumardev"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/> </a> </td> <td align="center"> <a href="https://dev.to/chintookumardev"> <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="32"/> </a> </td> <td align="center"> <a href="https://www.mlh.com/account/profile"> <img src="https://img.shields.io/badge/MLH-000000?style=for-the-badge&logo=mlh&logoColor=white" height="32"/> </a> </td> <td align="center"> <a href="mailto:chintookumar.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/> </a> </td> </tr> </table> <br> <a href="https://linkedin.com/in/chintoo-kumar-64a3373b5"> <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/> </a> <a href="https://github.com/chintookumardev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="34"/> </a> <a href="https://dev.to/chintookumardev"> <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="34"/> </a> <a href="https://x.com/chintookumardev"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="34"/> </a> <a href="https://www.mlh.com/account/profile"> <img src="https://img.shields.io/badge/MLH-000000?style=for-the-badge&logo=mlh&logoColor=white" height="34"/> </a> <a href="mailto:chintookumar.dev@gmail.com"> <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/> </a>
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=chintookumardev&style=for-the-badge&color=brightgreen&label=VISITORS" height="32"/>
 
-<img src="https://img.shields.io/github/followers/chintookumardev?style=for-the-badge&color=4C9AFF&logo=github&label=FOLLOWERS" height="32"/>
 
-<img src="https://img.shields.io/github/stars/chintookumardev?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&label=STARS" height="32"/>
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=chintookumardev&style=for-the-badge&color=brightgreen&label=VISITORS" height="32"/> <img src="https://img.shields.io/github/followers/chintookumardev?style=for-the-badge&color=4C9AFF&logo=github&label=FOLLOWERS" height="32"/> <img src="https://img.shields.io/github/stars/chintookumardev?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&label=STARS" height="32"/> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" width="100%"/> </div>
