@@ -452,11 +452,11 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/chintookumardev/chintookumardev/output/github-contribution-grid-snake.svg" alt="Chintoo Kumar Contribution Snake"/>
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
 
 </p>
 
