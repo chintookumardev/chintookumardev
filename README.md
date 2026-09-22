@@ -421,12 +421,13 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chintookumardev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Chintoo Kumar Contribution Graph"/>
-
-</p>
+<div align="center" style="background-color: #0d1117; padding: 15px; border-radius: 6px;">
+  <img src="https://ghchart.rshah.org/36BCF7/chintookumardev" width="100%" alt="Chintoo Kumar Contribution Chart"/>
+</div>
 
 ---
+
+</p>
 
 ## 🧩 LeetCode
 
