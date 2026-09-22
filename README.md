@@ -39,7 +39,7 @@
 <table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 Hi, I'm **Chintoo Kumar** — a BCA student at **Inderprastha Engineering College, Ghaziabad**, with a strong interest in full-stack and web development.
 
@@ -59,13 +59,13 @@ I enjoy turning ideas into functional applications and continuously improving my
 
 </td>
 
-<td width="38%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Computer Coding GIF"/>
+<img src="https://camo.githubusercontent.com/b8d935260a44f5c3213f2ac9b4b5e4251f5d477491ef4aec467247b42dc8cb8b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d65696768742e76657263656c2e6170702f3f757365723d6368696e746f6f6b756d6172646576267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3044313131372672696e673d33364243463726666972653d333642434637266375727253747265616b4c6162656c3d333642434637" width="100%" alt="Chintoo Kumar GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chintookumardev&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="100%" alt="Chintoo Kumar GitHub Streak"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Computer Coding GIF"/>
 
 </td>
 
