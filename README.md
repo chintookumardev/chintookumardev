@@ -454,11 +454,13 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align='center'<p align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
 
-</p>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/chintookumardev/chintookumardev/output/github-snake-dark.svg)
+
+</div> </p>
 
 ---
 
