@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=BCA+Student+%7C+Full-Stack+Developer;MERN+Stack+%7C+React.js+%7C+Node.js;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+Responsive+Web+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=BCA+Student+%7C+Full-Stack+Developer;MERN+Stack+%7C+React.js+%7C+Node.js;Java+%7C+Python;Building+Responsive+Web+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 
 </p>
 
@@ -43,7 +43,7 @@
 
 Hi, I'm **Chintoo Kumar** — a BCA student at **Inderprastha Engineering College, Ghaziabad**, with a strong interest in full-stack and web development.
 
-I work with the **MERN stack, C, C++, Java, Python, SQL, React.js, Node.js, and modern frontend technologies** to build practical applications and responsive user interfaces.
+I work with the **MERN stack, Java, Python, SQL, React.js, Node.js, and modern frontend technologies** to build practical applications and responsive user interfaces.
 
 My development journey focuses on building real projects while strengthening my foundation in **OOP, DBMS, SQL, REST APIs, database management, API integration, Git, GitHub, and problem-solving**.
 
@@ -250,7 +250,7 @@ HTML5 · CSS3 · JavaScript
 <td valign="top"><strong>💻 Languages</strong></td>
 
 <td>
-C • C++ • Java • JavaScript • Python • SQL
+Java • JavaScript • Python • SQL
 </td>
 
 </tr>
@@ -519,7 +519,7 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 ### 🤝 Let's Connect & Build Together
 
-I'm continuously learning and building projects in **Full-Stack Development, MERN, C, C++, Java, React.js, Node.js, Python, and SQL**.
+I'm continuously learning and building projects in **Full-Stack Development, MERN, Java, React.js, Node.js, Python, and SQL**.
 
 I'm interested in building practical software, improving my development skills, and collaborating on meaningful projects.
 
