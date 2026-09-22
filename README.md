@@ -12,15 +12,15 @@
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumardev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chintookumardev) | [![MLH](https://img.shields.io/badge/MLH-000000?style=for-the-badge&logo=mlh&logoColor=white)](https://www.mlh.com/account/profile) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumardev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
+| :---: | :---: | :---: | :---: |
 
 </div>
 
 <div align="center">
 
-| [About](#about) | [Education](#education) | [Projects](#featured-projects) | [Skills](#technical-skills) | [Certification](#certification) | [Activities](#development--activities) | [Statistics](#github-statistics) | [LeetCode](#leetcode) | [Connect](#connect-with-me) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [About](#about) | [Education](#education) | [Projects](#featured-projects) | [Skills](#technical-skills) | [Certification](#certification) | [Activities](#development--activities) | [Statistics](#github-statistics) | [Connect](#connect-with-me) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
 
@@ -387,12 +387,11 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 <br/>
 
-<a href="https://github.com/chintookumardev/Certifications">
-  <img src="https://img.shields.io/badge/View%20Certificate-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Certificate"/>
+<a href="https://www.linkedin.com/in/chintookumardev/details/certifications/">
+  <img src="https://img.shields.io/badge/View%20Certificates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View Certificates"/>
 </a>
 
 <br/><br/>
-
 
 </div>
 
@@ -416,53 +415,23 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 </div>
 
-
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
 <div align="center" style="background-color: #0d1117; padding: 15px; border-radius: 6px;">
   <img src="https://ghchart.rshah.org/36BCF7/chintookumardev" width="100%" alt="Chintoo Kumar Contribution Chart"/>
 </div>
 
 ---
 
-</p>
-
-## 🧩 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/problem-list/w6w20nwi/">
-
-<img src="https://img.shields.io/badge/LeetCode-My%20Problem%20List-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Chintoo Kumar LeetCode Problem List"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/problem-list/w6w20nwi/">
-
-<strong>🔥 View My LeetCode Problem List →</strong>
-
-</a>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
-<div align='center'<p align="center">
-
-
+<div align="center">
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/chintookumardev/chintookumardev/output/github-snake-dark.svg)
 
-</div> </p>
+</div>
 
 ---
 
@@ -518,6 +487,10 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 <div align="center">
 
+## Connect With Me
+
+<div align="center">
+
 ### 🤝 Let's Connect & Build Together
 
 I'm continuously learning and building projects in **Full-Stack Development, MERN, Java, React.js, Node.js, Python, and SQL**.
@@ -526,111 +499,10 @@ I'm interested in building practical software, improving my development skills, 
 
 <br>
 
-<table>
-<tr>
-
-<td align="center">
-
-<a href="https://linkedin.com/in/chintoo-kumar-64a3373b5">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/chintookumardev">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://x.com/chintookumardev">
-
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://dev.to/chintookumardev">
-
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="32"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://www.mlh.com/account/profile">
-
-<img src="https://img.shields.io/badge/MLH-000000?style=for-the-badge&logo=mlh&logoColor=white" height="32"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="mailto:chintookumar.dev@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumardev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
+| :---: | :---: | :---: | :---: |
 
 <br>
-
-<a href="https://linkedin.com/in/chintoo-kumar-64a3373b5">
-
-<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
-
-</a>
-
-<a href="https://github.com/chintookumardev">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="34"/>
-
-</a>
-
-<a href="https://dev.to/chintookumardev">
-
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="34"/>
-
-</a>
-
-<a href="https://x.com/chintookumardev">
-
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="34"/>
-
-</a>
-
-<a href="https://www.mlh.com/account/profile">
-
-<img src="https://img.shields.io/badge/MLH-000000?style=for-the-badge&logo=mlh&logoColor=white" height="34"/>
-
-</a>
-
-<a href="mailto:chintookumar.dev@gmail.com">
-
-<img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
-
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=chintookumardev&style=for-the-badge&color=brightgreen&label=VISITORS" height="32" alt="Profile Visitors"/>
 
