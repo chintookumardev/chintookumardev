@@ -402,9 +402,9 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chintookumardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Chintoo Kumar GitHub Statistics"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chintookumardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Chintoo Kumar GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintookumardev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Chintoo Kumar Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chintookumardev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Chintoo Kumar Top Languages"/>
 
 </div>
 
@@ -415,6 +415,7 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chintookumardev&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="80%" alt="Chintoo Kumar GitHub Streak"/>
 
 </div>
+
 
 ---
 
