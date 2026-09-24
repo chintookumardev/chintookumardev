@@ -487,9 +487,7 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 <div align="center">
 
-## Connect With Me
 
-<div align="center">
 
 ### 🤝 Let's Connect & Build Together
 
