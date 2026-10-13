@@ -401,9 +401,12 @@ OOP • DBMS • REST APIs • Database Management • API Integration • Respo
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chintookumardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Chintoo Kumar GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chintookumardev&showicons=true&theme=tokyonight&hideborder=true&includeallcommits=true&countprivate=true&cacheseconds=86400" height="180" alt="Chintoo Kumar GitHub Statistics"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chintookumardev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Chintoo Kumar Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintookumardev&layout=compact&theme=tokyonight&hideborder=true&langscount=8&cache_seconds=86400" height="180" alt="Chintoo Kumar Top Languages"/>
+
+<br/>
+
 
 </div>
 
