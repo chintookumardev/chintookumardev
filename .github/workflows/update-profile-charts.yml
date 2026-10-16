@@ -1,1 +1,28 @@
 
+name: Automatic Project Change Tracker
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get latest code
+        uses: actions/checkout@v4
+
+      - name: Record changed files
+        run: |
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "Event: $GITHUB_EVENT_NAME"
+          echo "Commit: $GITHUB_SHA"
+          echo "Changed files in latest commit:"
+          git diff-tree --no-commit-id \
+            --name-status -r HEAD
+
