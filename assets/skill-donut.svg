@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390">
+  <rect width="760" height="390" rx="20" fill="#0D1117"/>
+  <text x="28" y="38" fill="#F8FAFC" font-size="22" font-weight="700">SKILL DISTRIBUTION</text>
+  <text x="28" y="60" fill="#94A3B8" font-size="12">SIX CATEGORIES • SELF-ASSESSED RATINGS IN LEGEND</text>
+  <circle cx="185" cy="220" r="82" fill="none" stroke="#263244" stroke-width="28"/>
+  <g fill="none" stroke-width="28" transform="rotate(-90 185 220)">
+    <circle cx="185" cy="220" r="82" stroke="#36BCF7" stroke-dasharray="85.9 429.2"/>
+    <circle cx="185" cy="220" r="82" stroke="#8B5CF6" stroke-dasharray="85.9 429.2" stroke-dashoffset="-85.9"/>
+    <circle cx="185" cy="220" r="82" stroke="#10B981" stroke-dasharray="85.9 429.2" stroke-dashoffset="-171.8"/>
+    <circle cx="185" cy="220" r="82" stroke="#F59E0B" stroke-dasharray="85.9 429.2" stroke-dashoffset="-257.7"/>
+    <circle cx="185" cy="220" r="82" stroke="#F472B6" stroke-dasharray="85.9 429.2" stroke-dashoffset="-343.6"/>
+  </g>
+  <text x="185" y="215" fill="#F8FAFC" text-anchor="middle" font-size="18" font-weight="700">6 AREAS</text>
+  <text x="185" y="238" fill="#94A3B8" text-anchor="middle" font-size="12">SKILLS</text>
+  <g font-size="14" fill="#E2E8F0">
+    <circle cx="335" cy="118" r="6" fill="#36BCF7"/>
+    <text x="351" y="123">Frontend Development</text>
+    <text x="700" y="123" text-anchor="end" fill="#67E8F9">75%</text>
+    <circle cx="335" cy="160" r="6" fill="#8B5CF6"/>
+    <text x="351" y="165">Backend Development</text>
+    <text x="700" y="165" text-anchor="end" fill="#67E8F9">65%</text>
+    <circle cx="335" cy="202" r="6" fill="#10B981"/>
+    <text x="351" y="207">Databases &amp; SQL</text>
+    <text x="700" y="207" text-anchor="end" fill="#67E8F9">60%</text>
+    <circle cx="335" cy="244" r="6" fill="#F59E0B"/>
+    <text x="351" y="249">Java &amp; OOP</text>
+    <text x="700" y="249" text-anchor="end" fill="#67E8F9">70%</text>
+    <circle cx="335" cy="286" r="6" fill="#F472B6"/>
+    <text x="351" y="291">Problem Solving</text>
+    <text x="700" y="291" text-anchor="end" fill="#67E8F9">55%</text>
+    <circle cx="335" cy="328" r="6" fill="#60A5FA"/>
+    <text x="351" y="333">Developer Tools</text>
+    <text x="700" y="333" text-anchor="end" fill="#67E8F9">75%</text>
+  </g>
+</svg>
