@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="420" rx="20" fill="#0D1117"/>
+  <text x="28" y="38" fill="#F8FAFC" font-size="22" font-weight="700">SELF-ASSESSED SKILLS</text>
+  <text x="28" y="60" fill="#94A3B8" font-size="12">ILLUSTRATIVE VALUES • MAXIMUM 100%</text>
+  <g font-size="14" fill="#E2E8F0">
+    <text x="30" y="105">Frontend Development</text>
+    <text x="30" y="160">Backend Development</text>
+    <text x="30" y="215">Databases &amp; SQL</text>
+    <text x="30" y="270">Java &amp; OOP</text>
+    <text x="30" y="325">Problem Solving</text>
+    <text x="30" y="380">Developer Tools</text>
+  </g>
+  <g fill="#263244">
+    <rect x="30" y="115" width="570" height="9" rx="4"/>
+    <rect x="30" y="170" width="570" height="9" rx="4"/>
+    <rect x="30" y="225" width="570" height="9" rx="4"/>
+    <rect x="30" y="280" width="570" height="9" rx="4"/>
+    <rect x="30" y="335" width="570" height="9" rx="4"/>
+    <rect x="30" y="390" width="570" height="9" rx="4"/>
+  </g>
+  <g fill="url(#bar)">
+    <rect x="30" y="115" width="427.5" height="9" rx="4"/>
+    <rect x="30" y="170" width="370.5" height="9" rx="4"/>
+    <rect x="30" y="225" width="342" height="9" rx="4"/>
+    <rect x="30" y="280" width="399" height="9" rx="4"/>
+    <rect x="30" y="335" width="313.5" height="9" rx="4"/>
+    <rect x="30" y="390" width="427.5" height="9" rx="4"/>
+  </g>
+  <g font-size="14" font-weight="700" fill="#67E8F9" text-anchor="end">
+    <text x="700" y="124">75%</text>
+    <text x="700" y="179">65%</text>
+    <text x="700" y="234">60%</text>
+    <text x="700" y="289">70%</text>
+    <text x="700" y="344">55%</text>
+    <text x="700" y="399">75%</text>
+  </g>
+</svg>
