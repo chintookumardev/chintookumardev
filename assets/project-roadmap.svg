@@ -1,28 +1,38 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
-  <rect width="900" height="320" rx="20" fill="#0D1117"/>
-  <text x="28" y="38" fill="#F8FAFC" font-size="23" font-weight="700">PROJECT PORTFOLIO</text>
-  <text x="28" y="60" fill="#94A3B8" font-size="12">FULL-STACK • APPLICATIONS • WEB DEVELOPMENT</text>
-  <g font-family="Arial,sans-serif">
-    <rect x="28" y="82" width="410" height="88" rx="12" fill="#102C48" stroke="#36BCF7"/>
-    <text x="46" y="107" fill="#67E8F9" font-size="12">01 · FULL-STACK</text>
-    <text x="46" y="131" fill="#F8FAFC" font-size="17" font-weight="700">MERN E-Commerce</text>
-    <text x="46" y="151" fill="#CBD5E1" font-size="12">React · Node · Express · MongoDB</text>
-    <rect x="462" y="82" width="410" height="88" rx="12" fill="#241942" stroke="#8B5CF6"/>
-    <text x="480" y="107" fill="#C4B5FD" font-size="12">02 · JAVA &amp; DATABASES</text>
-    <text x="480" y="131" fill="#F8FAFC" font-size="17" font-weight="700">Student Management</text>
-    <text x="480" y="151" fill="#CBD5E1" font-size="12">Java · OOP · MySQL</text>
-    <rect x="28" y="190" width="265" height="96" rx="12" fill="#10352F" stroke="#10B981"/>
-    <text x="44" y="215" fill="#6EE7B7" font-size="11">03 · FRONTEND</text>
-    <text x="44" y="239" fill="#F8FAFC" font-size="15" font-weight="700">Portfolio Website</text>
-    <text x="44" y="260" fill="#CBD5E1" font-size="11">HTML · CSS · JavaScript</text>
-    <rect x="317" y="190" width="265" height="96" rx="12" fill="#382912" stroke="#F59E0B"/>
-    <text x="333" y="215" fill="#FCD34D" font-size="11">04 · PYTHON &amp; SQL</text>
-    <text x="333" y="239" fill="#F8FAFC" font-size="15" font-weight="700">Student Records</text>
-    <text x="333" y="260" fill="#CBD5E1" font-size="11">Python · Database Operations</text>
-    <rect x="606" y="190" width="266" height="96" rx="12" fill="#30203D" stroke="#F472B6"/>
-    <text x="622" y="215" fill="#F9A8D4" font-size="11">05 · JAVASCRIPT</text>
-    <text x="622" y="239" fill="#F8FAFC" font-size="15" font-weight="700">To-Do Application</text>
-    <text x="622" y="260" fill="#CBD5E1" font-size="11">DOM · Events · Local Storage</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="title desc">
+  <title id="title">Project Roadmap</title>
+  <desc id="desc">Five projects covering full-stack development, Java, frontend, Python, and browser-based JavaScript.</desc>
+  <rect width="900" height="340" rx="22" fill="#0d1117" stroke="#25364c"/>
+  <text x="450" y="40" text-anchor="middle" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">PROJECT ROADMAP</text>
+  <text x="450" y="63" text-anchor="middle" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">APPLICATION DEVELOPMENT AREAS REPRESENTED IN THIS PROFILE</text>
+  <path d="M90 111 H810" stroke="#344256" stroke-width="3" stroke-linecap="round"/>
+  <g>
+    <circle cx="90" cy="111" r="9" fill="#36bcf7"/>
+    <circle cx="270" cy="111" r="9" fill="#8b5cf6"/>
+    <circle cx="450" cy="111" r="9" fill="#10b981"/>
+    <circle cx="630" cy="111" r="9" fill="#f59e0b"/>
+    <circle cx="810" cy="111" r="9" fill="#ec4899"/>
+  </g>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <text x="90" y="145" fill="#7dd3fc" font-size="12" font-weight="700">01 · MERN</text>
+    <text x="90" y="167" fill="#ffffff" font-size="14" font-weight="700">E-Commerce</text>
+    <text x="90" y="189" fill="#9fb3c8" font-size="11">React · Node · MongoDB</text>
+    <text x="270" y="145" fill="#c4b5fd" font-size="12" font-weight="700">02 · JAVA</text>
+    <text x="270" y="167" fill="#ffffff" font-size="14" font-weight="700">Student System</text>
+    <text x="270" y="189" fill="#9fb3c8" font-size="11">OOP · MySQL</text>
+    <text x="450" y="145" fill="#6ee7b7" font-size="12" font-weight="700">03 · FRONTEND</text>
+    <text x="450" y="167" fill="#ffffff" font-size="14" font-weight="700">Portfolio</text>
+    <text x="450" y="189" fill="#9fb3c8" font-size="11">HTML · CSS · JavaScript</text>
+    <text x="630" y="145" fill="#fcd34d" font-size="12" font-weight="700">04 · PYTHON</text>
+    <text x="630" y="167" fill="#ffffff" font-size="14" font-weight="700">Student System</text>
+    <text x="630" y="189" fill="#9fb3c8" font-size="11">Python · SQL</text>
+    <text x="810" y="145" fill="#f9a8d4" font-size="12" font-weight="700">05 · JAVASCRIPT</text>
+    <text x="810" y="167" fill="#ffffff" font-size="14" font-weight="700">To-Do App</text>
+    <text x="810" y="189" fill="#9fb3c8" font-size="11">DOM · Local Storage</text>
+  </g>
+  <g>
+    <rect x="35" y="225" width="830" height="77" rx="12" fill="#161b22" stroke="#303b50"/>
+    <text x="55" y="250" fill="#36bcf7" font-family="Arial,sans-serif" font-size="13" font-weight="700">SKILLS PRACTICED ACROSS PROJECTS</text>
+    <text x="55" y="273" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="12">UI development · CRUD workflows · Database integration · Application logic · Responsive design</text>
+    <text x="55" y="291" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">This roadmap categorizes the listed projects; it does not claim completion dates or project metrics.</text>
   </g>
 </svg>
