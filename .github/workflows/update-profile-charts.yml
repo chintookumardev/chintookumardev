@@ -1,28 +1,46 @@
 
-name: Automatic Project Change Tracker
+name: Update GitHub Language Radar
 
 on:
   push:
-  pull_request:
+    paths-ignore:
+      - "skill-radar.svg"
+  schedule:
+    - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: skill-radar-update
+  cancel-in-progress: false
 
 jobs:
-  detect-changes:
+  update-radar:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Get latest code
+      - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Record changed files
-        run: |
-          echo "Repository: $GITHUB_REPOSITORY"
-          echo "Event: $GITHUB_EVENT_NAME"
-          echo "Commit: $GITHUB_SHA"
-          echo "Changed files in latest commit:"
-          git diff-tree --no-commit-id \
-            --name-status -r HEAD
+      - name: Generate radar SVG
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ github.token }}
+        run: python generate_skill_radar.py
 
+      - name: Commit updated SVG
+        run: |
+          if git diff --quiet -- skill-radar.svg; then
+            echo "Radar is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add skill-radar.svg
+          git commit -m "Update GitHub language radar"
+          git push
