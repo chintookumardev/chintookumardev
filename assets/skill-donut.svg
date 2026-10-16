@@ -1,36 +1,27 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390">
-  <rect width="760" height="390" rx="20" fill="#0D1117"/>
-  <text x="28" y="38" fill="#F8FAFC" font-size="22" font-weight="700">SKILL DISTRIBUTION</text>
-  <text x="28" y="60" fill="#94A3B8" font-size="12">SIX CATEGORIES • SELF-ASSESSED RATINGS IN LEGEND</text>
-  <circle cx="185" cy="220" r="82" fill="none" stroke="#263244" stroke-width="28"/>
-  <g fill="none" stroke-width="28" transform="rotate(-90 185 220)">
-    <circle cx="185" cy="220" r="82" stroke="#36BCF7" stroke-dasharray="85.9 429.2"/>
-    <circle cx="185" cy="220" r="82" stroke="#8B5CF6" stroke-dasharray="85.9 429.2" stroke-dashoffset="-85.9"/>
-    <circle cx="185" cy="220" r="82" stroke="#10B981" stroke-dasharray="85.9 429.2" stroke-dashoffset="-171.8"/>
-    <circle cx="185" cy="220" r="82" stroke="#F59E0B" stroke-dasharray="85.9 429.2" stroke-dashoffset="-257.7"/>
-    <circle cx="185" cy="220" r="82" stroke="#F472B6" stroke-dasharray="85.9 429.2" stroke-dashoffset="-343.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" role="img" aria-labelledby="title desc">
+  <title id="title">Development Focus Distribution</title>
+  <desc id="desc">Illustrative distribution of focus across frontend, backend, Java and OOP, databases, Python and SQL, and developer tools.</desc>
+  <rect width="760" height="390" rx="20" fill="#0d1117"/>
+  <text x="380" y="39" text-anchor="middle" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">DEVELOPMENT FOCUS DISTRIBUTION</text>
+  <text x="380" y="62" text-anchor="middle" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">ILLUSTRATIVE CATEGORY ALLOCATION · EDIT AS NEEDED</text>
+  <circle cx="230" cy="220" r="94" fill="none" stroke="#212936" stroke-width="30"/>
+  <g transform="rotate(-90 230 220)" fill="none" stroke-width="30">
+    <circle cx="230" cy="220" r="94" stroke="#36bcf7" stroke-dasharray="147.65 443.15" stroke-dashoffset="0"/>
+    <circle cx="230" cy="220" r="94" stroke="#8b5cf6" stroke-dasharray="118.12 472.68" stroke-dashoffset="-147.65"/>
+    <circle cx="230" cy="220" r="94" stroke="#10b981" stroke-dasharray="118.12 472.68" stroke-dashoffset="-265.77"/>
+    <circle cx="230" cy="220" r="94" stroke="#f59e0b" stroke-dasharray="88.59 502.21" stroke-dashoffset="-383.89"/>
+    <circle cx="230" cy="220" r="94" stroke="#ec4899" stroke-dasharray="59.06 531.74" stroke-dashoffset="-472.48"/>
+    <circle cx="230" cy="220" r="94" stroke="#64748b" stroke-dasharray="59.06 531.74" stroke-dashoffset="-531.54"/>
   </g>
-  <text x="185" y="215" fill="#F8FAFC" text-anchor="middle" font-size="18" font-weight="700">6 AREAS</text>
-  <text x="185" y="238" fill="#94A3B8" text-anchor="middle" font-size="12">SKILLS</text>
-  <g font-size="14" fill="#E2E8F0">
-    <circle cx="335" cy="118" r="6" fill="#36BCF7"/>
-    <text x="351" y="123">Frontend Development</text>
-    <text x="700" y="123" text-anchor="end" fill="#67E8F9">75%</text>
-    <circle cx="335" cy="160" r="6" fill="#8B5CF6"/>
-    <text x="351" y="165">Backend Development</text>
-    <text x="700" y="165" text-anchor="end" fill="#67E8F9">65%</text>
-    <circle cx="335" cy="202" r="6" fill="#10B981"/>
-    <text x="351" y="207">Databases &amp; SQL</text>
-    <text x="700" y="207" text-anchor="end" fill="#67E8F9">60%</text>
-    <circle cx="335" cy="244" r="6" fill="#F59E0B"/>
-    <text x="351" y="249">Java &amp; OOP</text>
-    <text x="700" y="249" text-anchor="end" fill="#67E8F9">70%</text>
-    <circle cx="335" cy="286" r="6" fill="#F472B6"/>
-    <text x="351" y="291">Problem Solving</text>
-    <text x="700" y="291" text-anchor="end" fill="#67E8F9">55%</text>
-    <circle cx="335" cy="328" r="6" fill="#60A5FA"/>
-    <text x="351" y="333">Developer Tools</text>
-    <text x="700" y="333" text-anchor="end" fill="#67E8F9">75%</text>
+  <text x="230" y="213" text-anchor="middle" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">6 AREAS</text>
+  <text x="230" y="237" text-anchor="middle" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Development</text>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#e6edf3">
+    <circle cx="405" cy="125" r="6" fill="#36bcf7"/><text x="421" y="130">Frontend</text><text x="690" y="130" text-anchor="end" fill="#a5f3fc">25%</text>
+    <circle cx="405" cy="163" r="6" fill="#8b5cf6"/><text x="421" y="168">Backend / MERN</text><text x="690" y="168" text-anchor="end" fill="#a5f3fc">20%</text>
+    <circle cx="405" cy="201" r="6" fill="#10b981"/><text x="421" y="206">Java &amp; OOP</text><text x="690" y="206" text-anchor="end" fill="#a5f3fc">20%</text>
+    <circle cx="405" cy="239" r="6" fill="#f59e0b"/><text x="421" y="244">Databases</text><text x="690" y="244" text-anchor="end" fill="#a5f3fc">15%</text>
+    <circle cx="405" cy="277" r="6" fill="#ec4899"/><text x="421" y="282">Python &amp; SQL</text><text x="690" y="282" text-anchor="end" fill="#a5f3fc">10%</text>
+    <circle cx="405" cy="315" r="6" fill="#64748b"/><text x="421" y="320">Developer Tools</text><text x="690" y="320" text-anchor="end" fill="#a5f3fc">10%</text>
   </g>
+  <text x="380" y="363" text-anchor="middle" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">These percentages describe an illustrative focus mix, not GitHub statistics.</text>
 </svg>
