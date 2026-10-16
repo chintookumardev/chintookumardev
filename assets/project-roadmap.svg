@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <rect width="900" height="320" rx="20" fill="#0D1117"/>
+  <text x="28" y="38" fill="#F8FAFC" font-size="23" font-weight="700">PROJECT PORTFOLIO</text>
+  <text x="28" y="60" fill="#94A3B8" font-size="12">FULL-STACK • APPLICATIONS • WEB DEVELOPMENT</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="28" y="82" width="410" height="88" rx="12" fill="#102C48" stroke="#36BCF7"/>
+    <text x="46" y="107" fill="#67E8F9" font-size="12">01 · FULL-STACK</text>
+    <text x="46" y="131" fill="#F8FAFC" font-size="17" font-weight="700">MERN E-Commerce</text>
+    <text x="46" y="151" fill="#CBD5E1" font-size="12">React · Node · Express · MongoDB</text>
+    <rect x="462" y="82" width="410" height="88" rx="12" fill="#241942" stroke="#8B5CF6"/>
+    <text x="480" y="107" fill="#C4B5FD" font-size="12">02 · JAVA &amp; DATABASES</text>
+    <text x="480" y="131" fill="#F8FAFC" font-size="17" font-weight="700">Student Management</text>
+    <text x="480" y="151" fill="#CBD5E1" font-size="12">Java · OOP · MySQL</text>
+    <rect x="28" y="190" width="265" height="96" rx="12" fill="#10352F" stroke="#10B981"/>
+    <text x="44" y="215" fill="#6EE7B7" font-size="11">03 · FRONTEND</text>
+    <text x="44" y="239" fill="#F8FAFC" font-size="15" font-weight="700">Portfolio Website</text>
+    <text x="44" y="260" fill="#CBD5E1" font-size="11">HTML · CSS · JavaScript</text>
+    <rect x="317" y="190" width="265" height="96" rx="12" fill="#382912" stroke="#F59E0B"/>
+    <text x="333" y="215" fill="#FCD34D" font-size="11">04 · PYTHON &amp; SQL</text>
+    <text x="333" y="239" fill="#F8FAFC" font-size="15" font-weight="700">Student Records</text>
+    <text x="333" y="260" fill="#CBD5E1" font-size="11">Python · Database Operations</text>
+    <rect x="606" y="190" width="266" height="96" rx="12" fill="#30203D" stroke="#F472B6"/>
+    <text x="622" y="215" fill="#F9A8D4" font-size="11">05 · JAVASCRIPT</text>
+    <text x="622" y="239" fill="#F8FAFC" font-size="15" font-weight="700">To-Do Application</text>
+    <text x="622" y="260" fill="#CBD5E1" font-size="11">DOM · Events · Local Storage</text>
+  </g>
+</svg>
