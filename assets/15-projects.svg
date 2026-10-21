@@ -1,0 +1,289 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d19"/>
+      <stop offset="100%" stop-color="#172746"/>
+    </linearGradient>
+    <linearGradient id="heading" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36bcf7"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <style>
+      .font { font-family: Arial, Helvetica, sans-serif; }
+      .card { fill: #111d31; stroke: #30435f; stroke-width: 1.2; }
+      .name { fill: #f8fafc; font-size: 16px; font-weight: bold; }
+      .industry { fill: #7dd3fc; font-size: 10px; letter-spacing: 1px; }
+      .desc { fill: #b9c8dc; font-size: 11px; }
+      .stack { fill: #a5f3fc; font-size: 10px; }
+      .number { fill: #ffffff; font-size: 13px; font-weight: bold; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1800" rx="22" fill="url(#background)"/>
+
+  <!-- Header -->
+  <text x="600" y="52" text-anchor="middle" class="font"
+        fill="#7dd3fc" font-size="12" letter-spacing="4">CHINTOO KUMAR • DEVELOPER PORTFOLIO</text>
+  <text x="600" y="105" text-anchor="middle" class="font"
+        fill="#ffffff" font-size="38" font-weight="bold">15 Full-Stack Project Ideas</text>
+  <text x="600" y="137" text-anchor="middle" class="font"
+        fill="#bac9df" font-size="15">15 Industries • Real-World Workflows • Modern Technologies</text>
+  <rect x="440" y="157" width="320" height="4" rx="2" fill="url(#heading)"/>
+
+  <!-- Card 1 -->
+  <g transform="translate(35 195)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#36bcf7"/>
+    <circle cx="32" cy="30" r="17" fill="#183c58"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">01</text>
+    <text x="60" y="26" class="industry font">BANKING &amp; FINTECH</text>
+    <text x="20" y="68" class="name font">Digital Banking System</text>
+    <text x="20" y="93" class="desc font">Accounts, simulated transfers, transaction history,</text>
+    <text x="20" y="110" class="desc font">double-entry ledger and audit logs.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • Spring Boot • MySQL</text>
+    <text x="20" y="161" class="stack font">React • REST APIs</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(418 195)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#34d399"/>
+    <circle cx="32" cy="30" r="17" fill="#164238"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">02</text>
+    <text x="60" y="26" class="industry font">HEALTHCARE</text>
+    <text x="20" y="68" class="name font">Hospital Operations</text>
+    <text x="20" y="93" class="desc font">Doctor scheduling, patient records, appointments,</text>
+    <text x="20" y="110" class="desc font">billing and role-based access.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">MongoDB • Express.js</text>
+    <text x="20" y="161" class="stack font">React • Node.js • REST APIs</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(801 195)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#a78bfa"/>
+    <circle cx="32" cy="30" r="17" fill="#352754"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">03</text>
+    <text x="60" y="26" class="industry font">E-COMMERCE &amp; RETAIL</text>
+    <text x="20" y="68" class="name font">Multi-Vendor Marketplace</text>
+    <text x="20" y="93" class="desc font">Buyer and seller accounts, catalog, cart, checkout,</text>
+    <text x="20" y="110" class="desc font">inventory and sales analytics.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">React • Node.js • Express.js</text>
+    <text x="20" y="161" class="stack font">MongoDB</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(35 390)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#fbbf24"/>
+    <circle cx="32" cy="30" r="17" fill="#44351a"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">04</text>
+    <text x="60" y="26" class="industry font">LOGISTICS &amp; SUPPLY CHAIN</text>
+    <text x="20" y="68" class="name font">Shipment Tracking System</text>
+    <text x="20" y="93" class="desc font">Tracking IDs, driver assignment, delivery updates,</text>
+    <text x="20" y="110" class="desc font">estimated arrivals and operational reports.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • Spring Boot • MySQL</text>
+    <text x="20" y="161" class="stack font">React • Mapping APIs</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g transform="translate(418 390)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#38bdf8"/>
+    <circle cx="32" cy="30" r="17" fill="#183c58"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">05</text>
+    <text x="60" y="26" class="industry font">EDUCATION &amp; EDTECH</text>
+    <text x="20" y="68" class="name font">Learning Management System</text>
+    <text x="20" y="93" class="desc font">Courses, enrollment, quizzes, grading, progress</text>
+    <text x="20" y="110" class="desc font">tracking, certificates and learning analytics.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">MongoDB • Express.js</text>
+    <text x="20" y="161" class="stack font">React • Node.js • REST APIs</text>
+  </g>
+
+  <!-- Card 6 -->
+  <g transform="translate(801 390)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#fb7185"/>
+    <circle cx="32" cy="30" r="17" fill="#472432"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">06</text>
+    <text x="60" y="26" class="industry font">INSURANCE</text>
+    <text x="20" y="68" class="name font">Policy &amp; Claims Processing</text>
+    <text x="20" y="93" class="desc font">Policy renewals, premium rules, claim approvals,</text>
+    <text x="20" y="110" class="desc font">document tracking and claim audit history.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • Spring Boot • MySQL</text>
+    <text x="20" y="161" class="stack font">React</text>
+  </g>
+
+  <!-- Card 7 -->
+  <g transform="translate(35 585)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#c084fc"/>
+    <circle cx="32" cy="30" r="17" fill="#352754"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">07</text>
+    <text x="60" y="26" class="industry font">HUMAN RESOURCES</text>
+    <text x="20" y="68" class="name font">HR Management System</text>
+    <text x="20" y="93" class="desc font">Employee profiles, attendance, shifts, leave,</text>
+    <text x="20" y="110" class="desc font">payroll, payslips and reporting.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • JDBC / Spring Boot</text>
+    <text x="20" y="161" class="stack font">MySQL • JavaScript</text>
+  </g>
+
+  <!-- Card 8 -->
+  <g transform="translate(418 585)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#2dd4bf"/>
+    <circle cx="32" cy="30" r="17" fill="#164238"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">08</text>
+    <text x="60" y="26" class="industry font">REAL ESTATE &amp; PROPTECH</text>
+    <text x="20" y="68" class="name font">Property Rental Platform</text>
+    <text x="20" y="93" class="desc font">Listings, tenant and landlord profiles, leases,</text>
+    <text x="20" y="110" class="desc font">rent tracking and maintenance requests.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">MongoDB • Express.js</text>
+    <text x="20" y="161" class="stack font">React • Node.js • Payment sandbox</text>
+  </g>
+
+  <!-- Card 9 -->
+  <g transform="translate(801 585)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#fb923c"/>
+    <circle cx="32" cy="30" r="17" fill="#44301d"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">09</text>
+    <text x="60" y="26" class="industry font">TRAVEL &amp; HOSPITALITY</text>
+    <text x="20" y="68" class="name font">Hotel Reservation System</text>
+    <text x="20" y="93" class="desc font">Room availability, bookings, cancellations,</text>
+    <text x="20" y="110" class="desc font">check-in, check-out and occupancy reports.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">React • Node.js • Express.js</text>
+    <text x="20" y="161" class="stack font">MySQL</text>
+  </g>
+
+  <!-- Card 10 -->
+  <g transform="translate(35 780)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#94a3b8"/>
+    <circle cx="32" cy="30" r="17" fill="#303e50"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">10</text>
+    <text x="60" y="26" class="industry font">MANUFACTURING &amp; INDUSTRY</text>
+    <text x="20" y="68" class="name font">Manufacturing ERP System</text>
+    <text x="20" y="93" class="desc font">Production orders, work schedules, inventory,</text>
+    <text x="20" y="110" class="desc font">BOMs, quality checks and wastage reports.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • Spring Boot • MySQL</text>
+    <text x="20" y="161" class="stack font">React</text>
+  </g>
+
+  <!-- Card 11 -->
+  <g transform="translate(418 780)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#e879f9"/>
+    <circle cx="32" cy="30" r="17" fill="#43254a"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">11</text>
+    <text x="60" y="26" class="industry font">TELECOMMUNICATIONS</text>
+    <text x="20" y="68" class="name font">Telecom Billing Platform</text>
+    <text x="20" y="93" class="desc font">Subscriptions, service plans, upgrades, usage,</text>
+    <text x="20" y="110" class="desc font">simulated bills and complaint tickets.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • MySQL • REST APIs</text>
+    <text x="20" y="161" class="stack font">React</text>
+  </g>
+
+  <!-- Card 12 -->
+  <g transform="translate(801 780)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#60a5fa"/>
+    <circle cx="32" cy="30" r="17" fill="#203c61"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">12</text>
+    <text x="60" y="26" class="industry font">GOVERNMENT &amp; PUBLIC SERVICES</text>
+    <text x="20" y="68" class="name font">Citizen Grievance Portal</text>
+    <text x="20" y="93" class="desc font">Complaint registration, department assignment,</text>
+    <text x="20" y="110" class="desc font">escalations, deadlines and audit trails.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">Java • Spring Boot • MySQL</text>
+    <text x="20" y="161" class="stack font">React</text>
+  </g>
+
+  <!-- Card 13 -->
+  <g transform="translate(35 975)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#f97316"/>
+    <circle cx="32" cy="30" r="17" fill="#44301d"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">13</text>
+    <text x="60" y="26" class="industry font">FOODTECH &amp; RESTAURANTS</text>
+    <text x="20" y="68" class="name font">Restaurant Kitchen System</text>
+    <text x="20" y="93" class="desc font">Digital menus, orders, kitchen queue, preparation</text>
+    <text x="20" y="110" class="desc font">status, inventory and sales reports.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">MongoDB • Express.js</text>
+    <text x="20" y="161" class="stack font">React • Node.js • REST APIs</text>
+  </g>
+
+  <!-- Card 14 -->
+  <g transform="translate(418 975)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#f472b6"/>
+    <circle cx="32" cy="30" r="17" fill="#47243b"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">14</text>
+    <text x="60" y="26" class="industry font">MEDIA &amp; ENTERTAINMENT</text>
+    <text x="20" y="68" class="name font">Video Streaming Platform</text>
+    <text x="20" y="93" class="desc font">Video catalog, genres, search, watchlists, history,</text>
+    <text x="20" y="110" class="desc font">subscriptions and content analytics.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">React • Node.js • Express.js</text>
+    <text x="20" y="161" class="stack font">MongoDB • Media APIs</text>
+  </g>
+
+  <!-- Card 15 -->
+  <g transform="translate(801 975)">
+    <rect width="365" height="175" rx="15" class="card"/>
+    <rect width="5" height="175" rx="2" fill="#4ade80"/>
+    <circle cx="32" cy="30" r="17" fill="#164238"/>
+    <text x="32" y="35" text-anchor="middle" class="font number">15</text>
+    <text x="60" y="26" class="industry font">IT SERVICES &amp; SAAS</text>
+    <text x="20" y="68" class="name font">Project &amp; Issue Tracker</text>
+    <text x="20" y="93" class="desc font">Tasks, sprints, Kanban, team permissions, issue</text>
+    <text x="20" y="110" class="desc font">assignment, comments and project analytics.</text>
+    <path d="M20 125H345" stroke="#30435f"/>
+    <text x="20" y="145" class="stack font">MongoDB • Express.js • React</text>
+    <text x="20" y="161" class="stack font">Node.js • REST APIs • GitHub</text>
+  </g>
+
+  <!-- Technology footer -->
+  <rect x="35" y="1180" width="1130" height="1" fill="#30435f" opacity="0"/>
+  <rect x="35" y="1180" width="1130" height="1" fill="#30435f" opacity="0"/>
+
+  <rect x="35" y="1180" width="1130" height="1" fill="#30435f" opacity="0"/>
+
+  <!-- Skills panel -->
+  <rect x="35" y="1180" width="1130" height="1" fill="#30435f" opacity="0"/>
+
+  <!-- Closing panel -->
+  <rect x="35" y="1190" width="1130" height="130" rx="18" fill="#111d31" stroke="#30435f" opacity="0"/>
+  <rect x="35" y="1190" width="1130" height="130" rx="18" fill="#111d31" stroke="#30435f" opacity="0"/>
+
+  <!-- Footer -->
+  <rect x="35" y="1190" width="1130" height="1" fill="#30435f" opacity="0"/>
+  <text x="600" y="1210" text-anchor="middle" class="font"
+        fill="#ffffff" font-size="1"> </text>
+
+  <!-- Portfolio signature -->
+  <path d="M35 1170H1165" stroke="#30435f"/>
+  <text x="600" y="1215" text-anchor="middle" class="font"
+        fill="#ffffff" font-size="24" font-weight="bold">Building Solutions Across Industries</text>
+  <text x="600" y="1248" text-anchor="middle" class="font"
+        fill="#aabbd3" font-size="14">Java • Spring Boot • React • Node.js • Express • MongoDB • MySQL</text>
+  <text x="600" y="1275" text-anchor="middle" class="font"
+        fill="#36bcf7" font-size="13">CHINTOO KUMAR • LEARN • BUILD • IMPROVE</text>
+
+  <!-- Notes -->
+  <text x="600" y="1320" text-anchor="middle" class="font"
+        fill="#7185a3" font-size="11">Project concepts and proposed feature sets</text>
+</svg>
