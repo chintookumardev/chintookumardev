@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Inderprastha Engineering College Education Banner</title>
+<desc id="desc">Chintoo Kumar, Bachelor of Computer Applications, 2024 to 2027, Ghaziabad, Uttar Pradesh.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#101b32"/>
+<stop offset="100%" stop-color="#0d1117"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#36bcf7"/>
+<stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+</defs>
+<rect width="1000" height="300" rx="22" fill="url(#bg)"/>
+<rect x="2" y="2" width="996" height="296" rx="20" fill="none" stroke="#303b50" stroke-width="2"/>
+<circle cx="875" cy="55" r="125" fill="#36bcf7" opacity=".06"/>
+<circle cx="930" cy="250" r="110" fill="#8b5cf6" opacity=".08"/>
+<path d="M0 270 Q250 220 500 280 T1000 240" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".6"/>
+<g transform="translate(55 63)">
+<path d="M0 30 L65 0 L130 30 L65 60 Z" fill="url(#accent)"/>
+<path d="M20 40 V76 Q65 105 110 76 V40 L65 65 Z" fill="#36bcf7" opacity=".8"/>
+<path d="M130 30 V65" stroke="#e6edf3" stroke-width="4" stroke-linecap="round"/>
+<circle cx="130" cy="70" r="5" fill="#e6edf3"/>
+</g>
+<text x="220" y="61" fill="#36bcf7" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">EDUCATION • 2024–2027</text>
+<text x="220" y="108" fill="#ffffff" font-family="Arial,sans-serif" font-size="31" font-weight="700">INDERPRASTHA ENGINEERING</text>
+<text x="220" y="146" fill="#ffffff" font-family="Arial,sans-serif" font-size="31" font-weight="700">COLLEGE</text>
+<text x="220" y="183" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="20">Bachelor of Computer Applications (BCA)</text>
+<rect x="220" y="207" width="310" height="35" rx="17" fill="#36bcf7" opacity=".13"/>
+<text x="375" y="230" fill="#36bcf7" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700">GHAZIABAD, UTTAR PRADESH</text>
+<text x="945" y="276" fill="#8b949e" text-anchor="end" font-family="Arial,sans-serif" font-size="13">CHINTOO KUMAR • DEVELOPER</text>
+</svg>
