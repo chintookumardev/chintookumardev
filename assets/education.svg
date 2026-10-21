@@ -1,66 +1,65 @@
-🎓 Education & Academic Journey
 
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="690" viewBox="0 0 1000 690">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111d33"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
 
-<a href="https://www.ipec.org.in/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=INDERPRASTHA+ENGINEERING+COLLEGE;BUILDING+MY+FUTURE+IN+TECHNOLOGY" width="100%" alt="Inderprastha Engineering College — Education Banner"/>
-</a>
+  <rect width="1000" height="690" rx="20" fill="url(#bg)"/>
+  <rect x="2" y="2" width="996" height="686" rx="18" fill="none" stroke="#30363D" stroke-width="2"/>
 
-<img src="https://img.shields.io/badge/DEGREE-Bachelor%20of%20Computer%20Applications-36BCF7?style=for-the-badge&labelColor=0D1117" alt="Bachelor of Computer Applications"/>
+  <circle cx="920" cy="45" r="160" fill="#36BCF7" opacity=".045"/>
+  <circle cx="40" cy="620" r="150" fill="#8B5CF6" opacity=".05"/>
 
-<br/><br/>
+  <text x="500" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="4" fill="#36BCF7">🎓 EDUCATION &amp; ACADEMIC JOURNEY</text>
 
-<a href="https://www.ipec.org.in/">
-<img src="https://img.shields.io/badge/COLLEGE-Inderprastha%20Engineering%20College-181717?style=for-the-badge&logo=google-scholar&logoColor=36BCF7" alt="Inderprastha Engineering College"/>
-</a>
+  <path d="M60 63 H940" stroke="#30363D" stroke-width="1"/>
 
-<img src="https://img.shields.io/badge/LOCATION-Ghaziabad%2C%20UP-181717?style=for-the-badge&logo=googlemaps&logoColor=36BCF7" alt="Ghaziabad, Uttar Pradesh"/>
+  <text x="500" y="112" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">INDERPRASTHA ENGINEERING</text>
+  <text x="500" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#36BCF7">COLLEGE</text>
+  <text x="500" y="180" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8B949E">BUILDING MY FUTURE IN TECHNOLOGY</text>
 
-<img src="https://img.shields.io/badge/ACADEMIC%20PERIOD-2024%20%E2%80%93%202027-181717?style=for-the-badge&logo=googlecalendar&logoColor=36BCF7" alt="Academic period 2024–2027"/>
+  <rect x="100" y="207" width="800" height="2" rx="1" fill="url(#blue)"/>
 
-</div>
+  <rect x="105" y="230" width="790" height="57" rx="9" fill="#161B22" stroke="#30363D"/>
+  <text x="500" y="253" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="2" fill="#36BCF7">DEGREE</text>
+  <text x="500" y="275" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF">Bachelor of Computer Applications (BCA)</text>
 
-💻 My Academic Focus
+  <rect x="105" y="301" width="380" height="43" rx="7" fill="#36BCF7" fill-opacity=".10" stroke="#36BCF7" stroke-opacity=".45"/>
+  <text x="295" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#36BCF7">📍 Ghaziabad, Uttar Pradesh</text>
 
-I'm pursuing a Bachelor of Computer Applications (BCA) at Inderprastha Engineering College, Ghaziabad, while developing practical skills in software development and modern web technologies.
+  <rect x="515" y="301" width="380" height="43" rx="7" fill="#36BCF7" fill-opacity=".10" stroke="#36BCF7" stroke-opacity=".45"/>
+  <text x="705" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#36BCF7">📅 Academic Period: 2024–2027</text>
 
-My goal is to combine my academic foundation with hands-on projects to become a capable full-stack developer.
+  <text x="65" y="389" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#FFFFFF">💻 My Academic Focus</text>
+  <text x="65" y="418" font-family="Arial,sans-serif" font-size="14" fill="#C9D1D9">Combining academic foundations with practical software development projects.</text>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+  <rect x="65" y="445" width="425" height="143" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="65" y="445" width="425" height="4" rx="2" fill="#36BCF7"/>
+  <text x="88" y="479" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#36BCF7">⚛️ Full-Stack Development</text>
+  <text x="90" y="510" font-family="Arial,sans-serif" font-size="15" fill="#E6EDF3">• MERN Stack</text>
+  <text x="90" y="535" font-family="Arial,sans-serif" font-size="15" fill="#E6EDF3">• React.js &amp; JavaScript</text>
+  <text x="90" y="560" font-family="Arial,sans-serif" font-size="15" fill="#E6EDF3">• Node.js &amp; Express.js</text>
+  <text x="90" y="580" font-family="Arial,sans-serif" font-size="13" fill="#8B949E">• REST API Development</text>
 
-  **⚛️ Full-Stack Development**
+  <rect x="510" y="445" width="425" height="143" rx="12" fill="#161B22" stroke="#30363D"/>
+  <rect x="510" y="445" width="425" height="4" rx="2" fill="#8B5CF6"/>
+  <text x="533" y="479" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#B9A0FF">☕ Programming &amp; Databases</text>
+  <text x="535" y="510" font-family="Arial,sans-serif" font-size="15" fill="#E6EDF3">• Java &amp; OOP</text>
+  <text x="535" y="535" font-family="Arial,sans-serif" font-size="15" fill="#E6EDF3">• Python</text>
+  <text x="535" y="560" font-family="Arial,sans-serif" font-size="15" fill="#E6EDF3">• SQL &amp; MySQL</text>
+  <text x="535" y="580" font-family="Arial,sans-serif" font-size="13" fill="#8B949E">• MongoDB &amp; DBMS</text>
 
-  - MERN Stack
-  - React.js & JavaScript
-  - Node.js & Express.js
-  - REST API Development
+  <a href="https://www.ipec.org.in/">
+    <rect x="300" y="612" width="400" height="43" rx="9" fill="url(#blue)"/>
+    <text x="500" y="639" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#0D1117">EXPLORE MY COLLEGE ↗</text>
+  </a>
 
-</td>
-<td width="50%" valign="top">
-
-  **☕ Programming & Databases**
-
-  - Java & OOP
-  - Python
-  - SQL & MySQL
-  - MongoDB & DBMS
-
-</td>
-
-
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://www.ipec.org.in/">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20COLLEGE-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Explore IPEC official website"/>
-</a>
-
-<br/><br/>
-
-🎯 Learning by building · Improving through practice · Growing as a developer
-
-</div>
+  <text x="500" y="676" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8B949E">Learning by building • Improving through practice • Growing as a developer</text>
+</svg>
